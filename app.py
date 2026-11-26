@@ -25,3 +25,7 @@ def Chu():
 @app.route("/a”-１")
 def a”-１():
     return "一人目できたかも"
+
+@app.route("/hi")
+def hello():
+    return "hello"
