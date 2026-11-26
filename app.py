@@ -22,6 +22,11 @@ def akiyama():
 def Chu():
     return "yahho"
 
+@app.route("/Aruki")
+def Aruki():
+    return "ARUKIです"
+
+
 @app.route("/a”-１")
 def a”-１():
     return "一人目できたかも"
